@@ -1,0 +1,3 @@
+[submodule "mes_gateway"]
+	path = mes_gateway
+	url = https://github.com/canionlabs/mes_gateway.git
